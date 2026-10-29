@@ -1,0 +1,19 @@
+Jonathan Herrera
+IMDM327
+28 October 2026
+Prof. Lee
+Assignment 2 Documentation
+Motivation: The purpose of this project was to include the necessary components of audio-interaction while still ensuring a short narrative or social meaning could be pulled from the activity of the piece (in short, make something beyond just “wow this is fun”). To do this, my idea was to flip the basic conception of a space shooter on its head, where the player is a state-brainwashed member of a galactic military who scouts space for, instead of faceless, pre-determined evil aliens, peaceful ships trying to deliver aid supplies for planets oppressed by the galactic military’s regime.
+
+In the wake of recent socio-political events, I hope to bring into question the meaning of “just doing as you're told.” The game introduces the ships you encounter as malignant, and, if you have any experience with video games whatsoever, you are already predisposed to shooting and killing anything foreign you see. I hope to challenge the part of someone that is predisposed to this violence in fantasy and make them ask why they have become so normalized to it in the first place.
+
+The more they play the game, the less fun it becomes, as the player slowly realizes the ships aren’t fighting back. When the player stops trying to defeat the ships, because they get bored or because the audio of their destruction of the peaceful ships gets too loud/much to handle, their superiors send them a message to obey or be killed. If the player still refuses to complete their task, they will be terminated and will “lose”. 
+
+It is also important to note that, inherent to the piece/game, there is no way to “win”. The player does as they are told, and they are eventually terminated (and inferentially replaced) after they serve their purpose. 
+
+Implementation: To implement the game, I built off of the simple 2D space shooter format, complete with a parallax background, full 4-axis player movement and shooting controls. I used the boids algorithm to simulate natural flocking behavior for the peaceful ships, who also behave with the goal of making it to the other side of the screen, past the player to deliver their aid, and I used media pipe (and, if you don't have access to a webcam, simple wasd + space inputs) to control the ship/player, creating an even stronger sense of emotional detachment from the game. I implemented different sounds to play when the player shoots, when the “enemy” ships explode, and when the player is eventually “terminated”. Specifically, the volume of the explosion sound increases as the player destroys more ships to simulate the emotional weight of the violence the player is committing. 
+
+Areas for improvement: The hand-tracking aspect is a bit unstable from my experience so I could improve with that clarity, and I need to definitely introduce the narrative better within the game itself, likely with exposition text that tells the player the exact situation as I explain here. 
+
+AI usage: I used Ai to help download/import the mediapipe github implementation found online, and I also used it with general debugging/ if I was ever too confused on implementation.
+
