@@ -1,0 +1,54 @@
+[2026-10-29T01:42:11.700Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.7f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 21572 --ipc-path Unity-Upm-21572 -l 2 --log-file 'C:\\Users\\goboi\\My project/Logs/upm.log'
+[2026-10-29T01:42:11.766Z][INFO] IPC server started (IPC path=Unity-Upm-21572).
+[2026-10-29T01:42:11.766Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-21572.
+[2026-10-29T01:42:15.645Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:15.989Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:16.038Z][INFO] project:list-packages --> 200 (393 ms)
+[2026-10-29T01:42:16.079Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:16.095Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-29T01:42:16.118Z][INFO] config:project:get-registries --> 200 (23 ms)
+[2026-10-29T01:42:16.365Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:16.432Z][INFO] project:list-packages --> 200 (353 ms)
+[2026-10-29T01:42:22.492Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:22.565Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:22.829Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:22.873Z][INFO] project:list-packages --> 200 (382 ms)
+[2026-10-29T01:42:22.928Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:22.953Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:22.973Z][INFO] project:list-packages --> 200 (408 ms)
+[2026-10-29T01:42:23.169Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-29T01:42:23.171Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:23.215Z][INFO] project:list-packages --> 200 (262 ms)
+[2026-10-29T01:42:23.216Z][INFO] config:project:get-registries --> 200 (48 ms)
+[2026-10-29T01:42:26.030Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:26.204Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:26.238Z][INFO] project:list-packages --> 200 (208 ms)
+[2026-10-29T01:42:32.186Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:32.219Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:32.415Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:32.478Z][INFO] project:list-packages --> 200 (292 ms)
+[2026-10-29T01:42:32.501Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:32.526Z][INFO] project:list-packages --> 200 (308 ms)
+[2026-10-29T01:42:32.603Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:32.787Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:32.819Z][INFO] project:list-packages --> 200 (216 ms)
+[2026-10-29T01:42:32.845Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-29T01:42:32.849Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-10-29T01:42:38.415Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:38.431Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-29T01:42:38.606Z][WARN] Package [com.github.homuler.mediapipe] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-10-29T01:42:38.654Z][INFO] project:list-packages --> 200 (223 ms)
